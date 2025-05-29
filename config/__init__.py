@@ -1,0 +1,1 @@
+"""Configuration module for game constants and settings.""" 

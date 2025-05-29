@@ -9,4 +9,4 @@ class Land:
         if charactersPresent is None:
             self.charactersPresent = []
         else:
-            self.charactersPresent = charactersPresent
+            self.charactersPresent = charactersPresent 

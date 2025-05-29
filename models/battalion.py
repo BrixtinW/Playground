@@ -14,5 +14,4 @@ class Battalion:
     
     def decrease_health(self):
         self.health -= 1
-
-        return (self.health <= 0)
+        return (self.health <= 0) 

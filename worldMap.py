@@ -2,7 +2,7 @@ import os
 import subprocess
 import openpyxl
 from openpyxl.styles import PatternFill, Border, Side, Alignment
-from kingdoms import Land
+from models.land import Land
 
 def displayMap(selected_options):
     # Create a new workbook
